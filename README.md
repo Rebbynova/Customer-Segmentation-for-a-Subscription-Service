@@ -1,5 +1,5 @@
 # Customer-Segmentation-for-a-Subscription-Service
-
+## Table of Contents
 1. [Executive summary](executivesummary)
 2. [Project background](projectbackground)
 3. [Data overview](dataoverview)
@@ -35,4 +35,4 @@ The dataset includes the following columns:
 - Subscription Start and Subscription End: Dates marking the start and end of each subscription.
 - Cancelled: Binary indicator for subscription cancellations.
 - Renewal: Binary indicator for renewals.
-- Average Subscription Duration: Average time a customer has held a subscription
+- Average Subscription Duration: Average time a customer has held a subscription.
