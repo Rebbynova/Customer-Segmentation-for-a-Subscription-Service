@@ -55,3 +55,4 @@ In the data exploration phase, various techniques were employed to gain insights
 - Finding customers with subscriptions longer than twelve months.
 - Calculating total revenue by subscription type.
 - Finding the total number of active and canceled subscriptions.
+## Data Analysis
