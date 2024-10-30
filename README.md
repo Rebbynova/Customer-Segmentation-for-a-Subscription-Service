@@ -36,3 +36,22 @@ The dataset includes the following columns:
 - Cancelled: Binary indicator for subscription cancellations.
 - Renewal: Binary indicator for renewals.
 - Average Subscription Duration: Average time a customer has held a subscription.
+## Methodology
+The methodology for this customer segmentation analysis involved several key steps, utilizing Excel, SQL, and Power BI to derive insights from the customer dataset.
+
+**Data Preparation**
+	
+The initial dataset provided was cleaned and pre-processed to remove any inconsistencies or missing values. This step ensured data integrity for subsequent analyses.
+	
+**Data Exploration**
+
+In the data exploration phase, various techniques were employed to gain insights into the dataset. Descriptive statistics were calculated for key numerical columns, providing an overview of customer engagement trends. Specific tasks included:
+- Identifying Popular Subscription Types
+- Finding Subscription Patterns
+- Finding the most popular subscription type by the number of customers.
+- Identifying the top three regions by subscription cancellations.
+- Finding customers who canceled their subscription within six months.
+- Calculating average subscription duration for all customers.
+- Finding customers with subscriptions longer than twelve months.
+- Calculating total revenue by subscription type.
+- Finding the total number of active and canceled subscriptions.
