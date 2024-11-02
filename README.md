@@ -93,5 +93,3 @@ order by canceled DESC
 limit 3			
 ```
 **Purpose** This query retrieves the top 3 regions by subscription cancellation
-
-
