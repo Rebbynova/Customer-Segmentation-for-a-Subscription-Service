@@ -57,12 +57,15 @@ In the data exploration phase, various techniques were employed to gain insights
 - Finding the total number of active and canceled subscriptions.
 ## Data Analysis
 This phase involved executing SQL queries to extract critical insights, such as retrieving the total number of customers in each region,finding the most popular subsription type by the number of customers and so on.
+### Query 1:
 ```sql
 select region,			
 count (customerid) as Total_customer			
 from csvcapstoneprojectcustomerdata			
 group by region			
 ```
+**Purpose** This query retrieves the total number of customers in each region
+### Query 2:
 ```sql
 select subscriptiontype,			
 count(customerid) as 			
@@ -71,12 +74,16 @@ from csvcapstoneprojectcustomerdata
 group by subscriptiontype			
 order by number_of_customers desc			
 ```
+**Purpose** This query retrieves the most popular subscription type by the number of customer
+### Query 3:
 ```sql
  select customerid				
  from csvcapstoneprojectcustomerdata				
  where subscriptionend-subscriptionstart <=180				
  and canceled=true
 ```
+**Purpose** This query retrieves the customers who cancelled their subscription within six month
+### Query 4:
 ```sql
 count(*) as cancellation			
 from csvcapstoneprojectcustomerdata			
@@ -85,6 +92,6 @@ group by region
 order by canceled DESC			
 limit 3			
 ```
-
+**Purpose** This query retrieves the top 3 regions by subscription cancellation
 
 
