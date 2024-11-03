@@ -65,6 +65,14 @@ This Pivot table visually represent the most popular subsription type.
 
 Accompany the pivot table,this chart represent the most popular subsription type.
 
+![image](https://github.com/user-attachments/assets/57740a7c-dbd1-4c79-8268-8571dab39445)
+
+This pivot table represent the subscription pattern of cancelled data plan by region
+
+![image](https://github.com/user-attachments/assets/11c5c928-fc16-450b-b880-6891e10c27b4)
+
+Accompany the pivot table, this chart visually represent the subscription pattern of cancelled data plan by region.
+
 ## Data Analysis
 This phase involved executing SQL queries to extract critical insights, such as retrieving the total number of customers in each region,finding the most popular subsription type by the number of customers and so on.
 ### Query 1:
