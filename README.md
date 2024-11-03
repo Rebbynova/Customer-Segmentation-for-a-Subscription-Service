@@ -5,8 +5,9 @@
 3. [Data overview](dataoverview)
 4. [Methodology](methodology)
 5. [Data analysis](data-analysis)
-6. [Visualization](visualization)
-7. [Conclusion](conclusion)
+6. [Excel Pivot Tables and Charts](excelpivottablesandcharts)
+7. [Visualization](visualization)
+8. [Conclusion](conclusion)
 
 ## Executive Summary
 This project presents an in-depth analysis of customer segmentation for a subscription service, using Excel, SQL, and Power BI. By analyzing customer behavior data, the project aims to identify trends in subscription preferences, cancellations, and renewals. These insights are expected to help improve customer retention and enable targeted marketing efforts for the subscription service, enhancing overall engagement and satisfaction.
