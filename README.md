@@ -56,6 +56,15 @@ In the data exploration phase, various techniques were employed to gain insights
 - Finding customers with subscriptions longer than twelve months.
 - Calculating total revenue by subscription type.
 - Finding the total number of active and canceled subscriptions.
+## Excel Pivot Tables and Charts
+![image](https://github.com/user-attachments/assets/f64c1855-7784-46af-99a4-5601881e5e48)
+
+This Pivot table visually represent the most popular subsription type.
+
+![image](https://github.com/user-attachments/assets/88bf139e-9348-47a9-b800-c94eca44db83)
+
+Accompany the pivot table,this chart represent the most popular subsription type.
+
 ## Data Analysis
 This phase involved executing SQL queries to extract critical insights, such as retrieving the total number of customers in each region,finding the most popular subsription type by the number of customers and so on.
 ### Query 1:
