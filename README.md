@@ -75,6 +75,8 @@ Accompany the pivot table, this chart visually represent the subscription patter
 
 ## Data Analysis
 This phase involved executing SQL queries to extract critical insights, such as retrieving the total number of customers in each region,finding the most popular subsription type by the number of customers and so on.
+
+Below are some of the queries run during the analysis;
 ### Query 1:
 ```sql
 select region,			
