@@ -4,8 +4,8 @@
 2. [Project background](projectbackground)
 3. [Data overview](dataoverview)
 4. [Methodology](methodology)
-5. [Data analysis](data-analysis)
-6. [Excel Pivot Tables and Charts](excelpivottablesandcharts)
+5. [Excel Pivot Tables and Charts](excelpivottablesandcharts)
+6. [Data analysis](data-analysis)
 7. [Power BI Visualization](powerbivisualization)
 8. [Conclusion](conclusion)
 
@@ -59,15 +59,23 @@ In the data exploration phase, various techniques were employed to gain insights
 ## Excel Pivot Tables and Charts
 ![image](https://github.com/user-attachments/assets/f64c1855-7784-46af-99a4-5601881e5e48)
 
-This Pivot table represent the most popular subsription type.
+This Pivot table represent the most popular subscription type.
 
 ![image](https://github.com/user-attachments/assets/88bf139e-9348-47a9-b800-c94eca44db83)
 
-Accompany the pivot table,this chart visually represent the most popular subsription type.
+Accompany the pivot table,this chart visually represent the most popular subscription type.
+
+![image](https://github.com/user-attachments/assets/6f2c7837-6af8-4f07-be94-35c0329db106)
+
+This pivot table represent the Average subscription duration.
+
+![image](https://github.com/user-attachments/assets/1c8806de-f615-482e-8ab9-e8924abb8be8)
+
+Accompany the pivot table, this chart visually represent the average subcription duration.
 
 ![image](https://github.com/user-attachments/assets/57740a7c-dbd1-4c79-8268-8571dab39445)
 
-This pivot table represent the subscription pattern of cancelled data plan by region
+This pivot table represent the subscription pattern of cancelled data plan by region.
 
 ![image](https://github.com/user-attachments/assets/11c5c928-fc16-450b-b880-6891e10c27b4)
 
