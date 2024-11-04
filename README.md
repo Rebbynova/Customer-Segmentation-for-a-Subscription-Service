@@ -6,7 +6,7 @@
 4. [Methodology](methodology)
 5. [Data analysis](data-analysis)
 6. [Excel Pivot Tables and Charts](excelpivottablesandcharts)
-7. [Visualization](visualization)
+7. [Power BI Visualization](powerbivisualization)
 8. [Conclusion](conclusion)
 
 ## Executive Summary
@@ -59,11 +59,11 @@ In the data exploration phase, various techniques were employed to gain insights
 ## Excel Pivot Tables and Charts
 ![image](https://github.com/user-attachments/assets/f64c1855-7784-46af-99a4-5601881e5e48)
 
-This Pivot table visually represent the most popular subsription type.
+This Pivot table represent the most popular subsription type.
 
 ![image](https://github.com/user-attachments/assets/88bf139e-9348-47a9-b800-c94eca44db83)
 
-Accompany the pivot table,this chart represent the most popular subsription type.
+Accompany the pivot table,this chart visually represent the most popular subsription type.
 
 ![image](https://github.com/user-attachments/assets/57740a7c-dbd1-4c79-8268-8571dab39445)
 
@@ -111,3 +111,9 @@ order by canceled DESC
 limit 3			
 ```
 **Purpose** This query retrieves the top 3 regions by subscription cancellation
+## Power BI Visualization
+![image](https://github.com/user-attachments/assets/f4dfc3d5-c219-4bc1-8632-8cf49b8e726c)
+
+## Conclusion
+The Customer Segmentation for a Subscription Service project effectively uncovers patterns and trends within customer subscription data. Through segmentation analysis, it identifies popular subscription types, customer usage patterns, and regions with high cancellation rates. By pinpointing customers who cancel early or hold longer subscriptions, the analysis provides valuable insights for retention strategies. The SQL-driven approach allows for precise data extraction, supporting a clear understanding of customer behavior.
+The findings suggest targeted marketing opportunities to retain at-risk customers, particularly in regions with higher cancellation rates, and to enhance engagement with popular subscription types. By leveraging these insights, the subscription service can better tailor its offerings, ultimately aiming to boost customer satisfaction and long-term retention.
