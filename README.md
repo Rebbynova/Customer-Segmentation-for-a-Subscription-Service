@@ -123,6 +123,13 @@ limit 3
 **Purpose** This query retrieves the top 3 regions by subscription cancellation
 ## Power BI Visualization
 ![image](https://github.com/user-attachments/assets/f4dfc3d5-c219-4bc1-8632-8cf49b8e726c)
+### Description:
+This dashboard focuses on customer-related metrics and revenue trends, giving insights into customer behavior, revenue patterns, and subscription cancellations.
+
+- Cards (Average Revenue, Total Revenue): These cards present key revenue figures, with Average Revenue reflecting the typical amount generated per transaction, and Total Revenue providing a cumulative view of income, allowing a quick snapshot of financial health.
+- Subscription Cancellation (Pie Chart): Shows the count of cancellations by subscription type, offering insight into which subscription levels have the highest or lowest retention. This can help in refining the subscription offerings to reduce cancellations.
+- Revenue by Year and Month (Line Chart): Displays monthly revenue trends over a two-year period, highlighting seasonal or monthly fluctuations in revenue. This visualization helps identify growth patterns and predict future performance based on historical data.
+- Revenue by Region (Bar Chart): Presents revenue distribution across regions, enabling a comparison of income sources by location. This can help in making regional sales and marketing decisions.
 
 ## Conclusion
 The Customer Segmentation for a Subscription Service project effectively uncovers patterns and trends within customer subscription data. Through segmentation analysis, it identifies popular subscription types, customer usage patterns, and regions with high cancellation rates. By pinpointing customers who cancel early or hold longer subscriptions, the analysis provides valuable insights for retention strategies. The SQL-driven approach allows for precise data extraction, supporting a clear understanding of customer behavior.
